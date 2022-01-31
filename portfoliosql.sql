@@ -1,5 +1,6 @@
+-- This assignment explored Global COVID data with focus on COVID related deaths, infection rate and vaccinations.
 --Using global COVID Deaths dataset from https://ourworldindata.org/covid-deaths I created two datasets "Coviddeath" dataset and "Covidvaccinations" dataset. 
---We are going to explore and then join these two datasets in the course of data exploration
+--We are going to explore and then join these two datasets in the course of data exploration.
 
 Select	*
 from [Portfolio project]..['Coviddeaths$']
