@@ -1,3 +1,7 @@
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+--                                                                 DATA EXPLORATION USING SQL                                                                -- 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 -- This assignment explores Global COVID data with focus on COVID related deaths, infection rate and vaccinations.
 -- Using global COVID Deaths dataset from https://ourworldindata.org/covid-deaths.
 -- I created two datasets "Coviddeath" dataset and "Covidvaccinations" dataset. 
