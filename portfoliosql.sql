@@ -2,10 +2,11 @@
 --                                                                 DATA EXPLORATION USING SQL                                                                -- 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
--- This assignment explores Global COVID data with focus on COVID related deaths, infection rate and vaccinations.
--- Using global COVID Deaths dataset from https://ourworldindata.org/covid-deaths.
+-- This project explores Global COVID data with focus on COVID related deaths, infection rate and vaccinations.
+-- I used global COVID Deaths dataset from https://ourworldindata.org/covid-deaths.
+-- I used Microsodt SQL Server Management Studio 18 for the project.
 -- I created two datasets "Coviddeath" dataset and "Covidvaccinations" dataset. 
--- In the assingnment, we are going to explore the data in the two datasets. 
+-- In the project, we are going to explore the data in the two datasets. 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 -- Step 1- Getting the feel of the data.
